@@ -14,7 +14,7 @@ function createGalleryItemsMarkup(items) {
   <img class="gallery__image" src="${preview}" alt="${description}" />
 </a>`;
     }).join("");
-}
+};
 
 // console.log(itemsMarkup)
 
